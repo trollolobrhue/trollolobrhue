@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Trollolo/VRP.Negão and I'm a programmer, from Brasil</h2>
+<h2 align="left">Fala aí fmz 👋! Eu sou a Trollolo/VRP.Negão, Trabalho com programação Web e Fivem e tecnologia, sou Brasileiro 🇧🇷!
+</h2>
 
 ###
 
